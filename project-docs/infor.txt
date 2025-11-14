@@ -1,0 +1,2 @@
+termin oddania: 16.06.2025 godz. 7:30
+funkcjonalność: HTML+CSS/Bootstrap+JS *PHP+MySQL
